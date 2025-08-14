@@ -128,4 +128,10 @@ section#home img {
   text-align: justify;
 }
 
+#home h1 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  color: #61dafb; /* React's signature blue */
+  text-align: center;
+}
 
