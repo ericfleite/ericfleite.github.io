@@ -116,14 +116,14 @@ section#home img {
 }
 
 #contato h1 {
-  font-size: 2.9em;
+  font-size: 2.3em;
   margin-bottom: 20px;
   color: #61dafb; /* React's signature blue */
   text-align: center;
 }
 
 #contato p {
-  font-size: 1.8em;
+  font-size: 1.2em;
   line-height: 1.6;
   text-align: justify;
 }
