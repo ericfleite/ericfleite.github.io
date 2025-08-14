@@ -115,9 +115,4 @@ section#home img {
   text-align: justify;
 }
 
-/* Extra: Highlight React if mentioned in text */
-#sobre p::after {
-  content: " ⚛️";
-  display: inline;
-  color: #61dafb;
-}
+
