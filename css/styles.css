@@ -142,5 +142,7 @@ section#home img {
 }
 
 #home div {
-    item-align: justify-center;
+  justify-content: center;
+  display: flex;
 }
+
