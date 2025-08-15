@@ -140,3 +140,7 @@ section#home img {
   line-height: 1.6;
   text-align: justify;
 }
+
+#home div {
+    item-align: justify-center;
+}
